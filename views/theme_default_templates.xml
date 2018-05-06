@@ -16,7 +16,7 @@
     <template id="Soroush_style_Common" name="Soroush_style_Common" inherit_id="website.assets_frontend" >
         <xpath expr="//link[last()]" position="after">
 
-            <link rel="stylesheet" href='/theme_soroush/static/src/css/custom.css'/>
+            <link rel="stylesheet" href='/theme_soroush_first/static/src/css/custom.css'/>
 
         </xpath>
     </template>
@@ -42,7 +42,7 @@
                             <div>
                                 Style 1
                             </div>
-                            <input name="stylevar" type="radio" data-xmlid="theme_soroush.Soroush_style"/>
+                            <input name="stylevar" type="radio" data-xmlid="theme_soroush_first.Soroush_style"/>
                         </label>
                     </td>
                     <td>
@@ -50,7 +50,7 @@
 						<div>
                             Style 2
 							</div>
-                            <input name="stylevar" type="radio" data-xmlid="theme_soroush.Soroush_style_1"/>
+                            <input name="stylevar" type="radio" data-xmlid="theme_soroush_first.Soroush_style_1"/>
                         </label>
                     </td>
                     <td>
@@ -58,7 +58,7 @@
 						<div>
                             Style 3
 							</div>
-                            <input name="stylevar" type="radio" data-xmlid="theme_soroush.Soroush_style_2"/>
+                            <input name="stylevar" type="radio" data-xmlid="theme_soroush_first.Soroush_style_2"/>
                         </label>
                     </td>
 
@@ -77,7 +77,7 @@
                                 <span style="font-family:Georgia, 'Times New Roman', Times, serif; font-size:11px">/
                                     Georgia
                                 </span>
-                                <input name="theme" type="radio" data-xmlid="theme_soroush.option_font_Abel"/>
+                                <input name="theme" type="radio" data-xmlid="theme_soroush_first.option_font_Abel"/>
                             </div>
 
                         </label>
@@ -92,7 +92,7 @@
                                 <span style="font-family:Georgia, 'Times New Roman', Times, serif; font-size:11px">/
                                     Georgia
                                 </span>
-                                <input name="theme" type="radio" data-xmlid="theme_soroush.option_font_Abhaya_Libre"/>
+                                <input name="theme" type="radio" data-xmlid="theme_soroush_first.option_font_Abhaya_Libre"/>
                             </div>
 
                         </label>
@@ -106,7 +106,7 @@
                                 <span style="font-family:Georgia, 'Times New Roman', Times, serif; font-size:11px">/
                                     Georgia
                                 </span>
-                                <input name="theme" type="radio" data-xmlid="theme_soroush.option_font_ABeeZee"/>
+                                <input name="theme" type="radio" data-xmlid="theme_soroush_first.option_font_ABeeZee"/>
                             </div>
 
                         </label>
@@ -120,7 +120,7 @@
                                 <span style="font-family:Georgia, 'Times New Roman', Times, serif; font-size:11px">/
                                     Georgia
                                 </span>
-                                <input name="theme" type="radio" data-xmlid="theme_soroush.option_font_Adamina"/>
+                                <input name="theme" type="radio" data-xmlid="theme_soroush_first.option_font_Adamina"/>
                             </div>
 
                         </label>
@@ -134,7 +134,7 @@
                                 <span style="font-family:Georgia, 'Times New Roman', Times, serif; font-size:11px">/
                                     Georgia
                                 </span>
-                                <input name="theme" type="radio" data-xmlid="theme_soroush.option_font_Alex_Brush"/>
+                                <input name="theme" type="radio" data-xmlid="theme_soroush_first.option_font_Alex_Brush"/>
                             </div>
 
                         </label>
@@ -148,7 +148,7 @@
                                 <span style="font-family:Georgia, 'Times New Roman', Times, serif; font-size:11px">/
                                     Georgia
                                 </span>
-                                <input name="theme" type="radio" data-xmlid="theme_soroush.option_font_Almendra"/>
+                                <input name="theme" type="radio" data-xmlid="theme_soroush_first.option_font_Almendra"/>
                             </div>
 
                         </label>
@@ -162,7 +162,7 @@
                                 <span style="font-family:Georgia, 'Times New Roman', Times, serif; font-size:11px">/
                                     Georgia
                                 </span>
-                                <input name="theme" type="radio" data-xmlid="theme_soroush.option_font_Trochut"/>
+                                <input name="theme" type="radio" data-xmlid="theme_soroush_first.option_font_Trochut"/>
                             </div>
 
                         </label>
@@ -175,8 +175,8 @@
     <template id="Soroush_style" name="Soroush_style" inherit_id="website.assets_frontend" active="false"
               customize_show="false">
         <xpath expr="//link[last()]" position="after">
-            <link rel="stylesheet" href='/theme_soroush/static/src/less/soroush_style.less'/>
-            <link rel="stylesheet" href='/theme_soroush/static/src/less/CommonStyle.less'/>
+            <link rel="stylesheet" href='/theme_soroush_first/static/src/less/soroush_style.less'/>
+            <link rel="stylesheet" href='/theme_soroush_first/static/src/less/CommonStyle.less'/>
 
 
 
@@ -186,66 +186,66 @@
     <template id="Soroush_style_1" name="Soroush_style_1" inherit_id="website.assets_frontend" active="false"
               customize_show="false">
         <xpath expr="//link[last()]" position="after">
-            <link rel="stylesheet" href='/theme_soroush/static/src/less/soroush_style_1.less'/>
-            <link rel="stylesheet" href='/theme_soroush/static/src/less/CommonStyle.less'/>
+            <link rel="stylesheet" href='/theme_soroush_first/static/src/less/soroush_style_1.less'/>
+            <link rel="stylesheet" href='/theme_soroush_first/static/src/less/CommonStyle.less'/>
 
         </xpath>
     </template>
     <template id="Soroush_style_2" name="Soroush_style_2" inherit_id="website.assets_frontend" active="False"
               customize_show="False">
         <xpath expr="//link[last()]" position="after">
-            <link rel="stylesheet" href='/theme_soroush/static/src/less/soroush_style_2.less'/>
-            <link rel="stylesheet" href='/theme_soroush/static/src/less/CommonStyle.less'/>
+            <link rel="stylesheet" href='/theme_soroush_first/static/src/less/soroush_style_2.less'/>
+            <link rel="stylesheet" href='/theme_soroush_first/static/src/less/CommonStyle.less'/>
         </xpath>
     </template>
     <!-- Option layout -->
     <template id="option_font_ABeeZee" name="option_font_ABeeZee" inherit_id="website.assets_frontend" active="False"
               customize_show="False">
         <xpath expr="." position="inside">
-            <link href="/theme_soroush/static/src/less/option_font_ABeeZee.less" rel="stylesheet" type="text/less"/>
+            <link href="/theme_soroush_first/static/src/less/option_font_ABeeZee.less" rel="stylesheet" type="text/less"/>
         </xpath>
     </template>
     <template id="option_font_Abel" name="option_font_Abel" inherit_id="website.assets_frontend" active="False"
               customize_show="False">
         <xpath expr="." position="inside">
-            <link href="/theme_soroush/static/src/less/option_font_Abel.less" rel="stylesheet" type="text/less"/>
+            <link href="/theme_soroush_first/static/src/less/option_font_Abel.less" rel="stylesheet" type="text/less"/>
         </xpath>
     </template>
     <template id="option_font_Abhaya_Libre" name="option_font_Abhaya_Libre" inherit_id="website.assets_frontend"
               active="False" customize_show="False">
         <xpath expr="." position="inside">
-            <link href="/theme_soroush/static/src/less/option_font_Abhaya_Libre.less" rel="stylesheet"
+            <link href="/theme_soroush_first/static/src/less/option_font_Abhaya_Libre.less" rel="stylesheet"
                   type="text/less"/>
         </xpath>
     </template>
     <template id="option_font_Adamina" name="option_font_Adamina" inherit_id="website.assets_frontend" active="False"
               customize_show="False">
         <xpath expr="." position="inside">
-            <link href="/theme_soroush/static/src/less/option_font_Adamina.less" rel="stylesheet" type="text/less"/>
+            <link href="/theme_soroush_first/static/src/less/option_font_Adamina.less" rel="stylesheet" type="text/less"/>
         </xpath>
     </template>
     <template id="option_font_Alex_Brush" name="option_font_Alex_Brush" inherit_id="website.assets_frontend"
               active="False" customize_show="False">
         <xpath expr="." position="inside">
-            <link href="/theme_soroush/static/src/less/option_font_Alex_Brush.less" rel="stylesheet" type="text/less"/>
+            <link href="/theme_soroush_first/static/src/less/option_font_Alex_Brush.less" rel="stylesheet" type="text/less"/>
         </xpath>
     </template>
 
     <template id="option_font_Almendra" name="option_font_Almendra" inherit_id="website.assets_frontend" active="False"
               customize_show="False">
         <xpath expr="." position="inside">
-            <link href="/theme_soroush/static/src/less/option_font_Almendra.less" rel="stylesheet" type="text/less"/>
+            <link href="/theme_soroush_first/static/src/less/option_font_Almendra.less" rel="stylesheet" type="text/less"/>
         </xpath>
     </template>
     <template id="option_font_Trochut" name="option_font_Trochut" inherit_id="website.assets_frontend" active="False"
               customize_show="False">
         <xpath expr="." position="inside">
-            <link href="/theme_soroush/static/src/less/option_font_Trochut.less" rel="stylesheet" type="text/less"/>
+            <link href="/theme_soroush_first/static/src/less/option_font_Trochut.less" rel="stylesheet" type="text/less"/>
         </xpath>
     </template>
     <template id="Soroush_Snippets" inherit_id="web.assets_frontend" name="Website Snippets">
         <xpath expr="//link[last()]" position="after">
-            <link rel="stylesheet" type="text/css" href="/theme_soroush/static/src/less/snippet.less"/>
+            <link rel="stylesheet" type="text/css" href="/theme_soroush_first/static/src/less/snippet.less"/>
         </xpath>
     </template>
 

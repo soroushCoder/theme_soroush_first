@@ -11,21 +11,21 @@
                         Soroush snippets
                     </div>
                     <div class="o_panel_body">
-                        <t t-snippet="theme_soroush.s_gallary"
-                           t-thumbnail="/theme_soroush/static/src/img/snippets/s_gallary.png"/>
+                        <t t-snippet="theme_soroush_first.s_gallary"
+                           t-thumbnail="/theme_soroush_first/static/src/img/snippets/s_gallary.png"/>
 
-                        <t t-snippet="theme_soroush.s_timeline"
-                           t-thumbnail="/theme_soroush/static/src/img/snippets/s_timeline.jpg"/>
+                        <t t-snippet="theme_soroush_first.s_timeline"
+                           t-thumbnail="/theme_soroush_first/static/src/img/snippets/s_timeline.jpg"/>
 
-                        <t t-snippet="theme_soroush.s_Discount"
-                           t-thumbnail="/theme_soroush/static/src/img/snippets/s_comparison.jpg"/>
+                        <t t-snippet="theme_soroush_first.s_Discount"
+                           t-thumbnail="/theme_soroush_first/static/src/img/snippets/s_comparison.jpg"/>
 
-                        <t t-snippet="theme_soroush.s_steps"
-                           t-thumbnail="/theme_soroush/static/src/img/snippets/s_comparison.jpg"/>
-                        <t t-snippet="theme_soroush.s_teams"
-                           t-thumbnail="/theme_soroush/static/src/img/snippets/block_three_columns.png"/>
-                        <t t-snippet="theme_soroush.s_customer"
-                           t-thumbnail="/theme_soroush/static/src/img/snippets/Our_Happy_Customers.png"/>
+                        <t t-snippet="theme_soroush_first.s_steps"
+                           t-thumbnail="/theme_soroush_first/static/src/img/snippets/s_comparison.jpg"/>
+                        <t t-snippet="theme_soroush_first.s_teams"
+                           t-thumbnail="/theme_soroush_first/static/src/img/snippets/block_three_columns.png"/>
+                        <t t-snippet="theme_soroush_first.s_customer"
+                           t-thumbnail="/theme_soroush_first/static/src/img/snippets/Our_Happy_Customers.png"/>
 
                     </div>
                 </div>
@@ -40,42 +40,42 @@
                         <div class="custom-gallery row mt16">
                             <div class="col-md-3 col-sm-4 col-xs-6 ">
                                 <img class="img-responsive"
-                                     src="/theme_soroush/static/src/img/snippet/Free Nature Photo.jpg"
+                                     src="/theme_soroush_first/static/src/img/snippet/Free Nature Photo.jpg"
                                      style="height: 175px; width: 300px;"/>
                             </div>
                             <div class="col-md-3 col-sm-4 col-xs-6 ">
                                 <img class="img-responsive"
-                                     src="/theme_soroush/static/src/img/snippet/Grandview_Nature_Preserve.jpg"
+                                     src="/theme_soroush_first/static/src/img/snippet/Grandview_Nature_Preserve.jpg"
                                      style="height: 175px; width: 300px;"/>
                             </div>
                             <div class="col-md-3 col-sm-4 col-xs-6 ">
                                 <img class="img-responsive"
-                                     src="/theme_soroush/static/src/img/snippet/NEC1-300x200.jpg"
+                                     src="/theme_soroush_first/static/src/img/snippet/NEC1-300x200.jpg"
                                      style="height: 175px; width: 300px;"/>
                             </div>
                             <div class="col-md-3 col-sm-4 col-xs-6 ">
                                 <img class="img-responsive"
-                                     src="/theme_soroush/static/src/img/snippet/painting_of_nature_by_dhikagraph-d2ynalq.jpg"
+                                     src="/theme_soroush_first/static/src/img/snippet/painting_of_nature_by_dhikagraph-d2ynalq.jpg"
                                      style="height: 175px; width: 300px;"/>
                             </div>
                             <div class="col-md-3 col-sm-4 col-xs-6 ">
                                 <img class="img-responsive"
-                                     src="/theme_soroush/static/src/img/snippet/Grandview_Nature_Preserve.jpg"
+                                     src="/theme_soroush_first/static/src/img/snippet/Grandview_Nature_Preserve.jpg"
                                      style="height: 175px; width: 300px;"/>
                             </div>
                             <div class="col-md-3 col-sm-4 col-xs-6 ">
                                 <img class="img-responsive"
-                                     src="/theme_soroush/static/src/img/snippet/painting_of_nature_by_dhikagraph-d2ynalq.jpg"
+                                     src="/theme_soroush_first/static/src/img/snippet/painting_of_nature_by_dhikagraph-d2ynalq.jpg"
                                      style="height: 175px; width: 300px;"/>
                             </div>
                             <div class="col-md-3 col-sm-4 col-xs-6 ">
                                 <img class="img-responsive"
-                                     src="/theme_soroush/static/src/img/snippet/Free Nature Photo.jpg"
+                                     src="/theme_soroush_first/static/src/img/snippet/Free Nature Photo.jpg"
                                      style="height: 175px; width: 300px;"/>
                             </div>
                             <div class="col-md-3 col-sm-4 col-xs-6 ">
                                 <img class="img-responsive"
-                                     src="/theme_soroush/static/src/img/snippet/NEC1-300x200.jpg"
+                                     src="/theme_soroush_first/static/src/img/snippet/NEC1-300x200.jpg"
                                      style="height: 175px; width: 300px;"/>
                             </div>
                         </div>
@@ -375,7 +375,7 @@
         <template id="s_teams" name="s_teams">
 
             <section class="team oe_snippet_body " id="team" role="region" aria-label="'Team"
-                     style="background:url(/theme_soroush/static/src/img/snippet/are-you-all-right.jpg);">
+                     style="background:url(/theme_soroush_first/static/src/img/snippet/are-you-all-right.jpg);">
                 <div class="section-overlay-layer container">
 
                     <div class="section-header">
@@ -388,7 +388,7 @@
                         <div class="col-md-3 team-member-box">
                             <div class="team-member border-bottom-hover">
                                 <div class="member-pic">
-                                    <img src="/theme_soroush/static/src/img/snippet/1.jpg" alt="Albert Jacobs"/>
+                                    <img src="/theme_soroush_first/static/src/img/snippet/1.jpg" alt="Albert Jacobs"/>
                                 </div><!-- .member-pic -->
 
                                 <div class="member-details">
@@ -403,7 +403,7 @@
                         <div class="col-md-3 team-member-box">
                             <div class="team-member border-bottom-hover">
                                 <div class="member-pic">
-                                    <img src="/theme_soroush/static/src/img/snippet/2.jpg" alt="Tonya Garcia"/>
+                                    <img src="/theme_soroush_first/static/src/img/snippet/2.jpg" alt="Tonya Garcia"/>
                                 </div><!-- .member-pic -->
 
                                 <div class="member-details">
@@ -418,7 +418,7 @@
                         <div class="col-md-3 team-member-box">
                             <div class="team-member border-bottom-hover">
                                 <div class="member-pic">
-                                    <img src="/theme_soroush/static/src/img/snippet/3.jpg" alt="Linda Guthrie"/>
+                                    <img src="/theme_soroush_first/static/src/img/snippet/3.jpg" alt="Linda Guthrie"/>
                                 </div><!-- .member-pic -->
 
                                 <div class="member-details">
@@ -454,7 +454,7 @@
                                     <div class="feedback border-bottom-hover">
                                         <div class="pic-container">
                                             <div class="pic-container-inner">
-                                                <img src="/theme_soroush/static/src/img/snippet/mmman-540500_640.jpg"
+                                                <img src="/theme_soroush_first/static/src/img/snippet/mmman-540500_640.jpg"
                                                      alt="John Smith"/>
                                             </div>
                                         </div>
@@ -479,7 +479,7 @@
                                     <div class="feedback border-bottom-hover">
                                         <div class="pic-container">
                                             <div class="pic-container-inner">
-                                                <img src="/theme_soroush/static/src/img/snippet/boy-1252987_640.jpg"
+                                                <img src="/theme_soroush_first/static/src/img/snippet/boy-1252987_640.jpg"
                                                      alt="Ana James"/>
                                             </div>
                                         </div>
@@ -504,7 +504,7 @@
                                     <div class="feedback border-bottom-hover">
                                         <div class="pic-container">
                                             <div class="pic-container-inner">
-                                                <img src="/theme_soroush/static/src/img/snippet/mmmman-540500_640.jpg"
+                                                <img src="/theme_soroush_first/static/src/img/snippet/mmmman-540500_640.jpg"
                                                      alt="Diane Elle"/>
                                             </div>
                                         </div>
