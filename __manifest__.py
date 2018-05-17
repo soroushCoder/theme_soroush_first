@@ -18,5 +18,7 @@
         'static/description/cover.png',
         'static/description/theme-soroush.jpg',
     ],
+    'installable': True,
+    'auto_install': False,
     'application': False,
 }
