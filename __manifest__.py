@@ -12,7 +12,8 @@
     'data': [
         'data/theme_default_data.xml',
         'views/theme_default_templates.xml',  
-        'views/ecommerce_snippest_extra.xml'
+        'views/ecommerce_snippest_extra.xml',
+        'views/website_ecommerce_template_views.xml'
     ],
     'images': [
         'static/description/cover.png',
