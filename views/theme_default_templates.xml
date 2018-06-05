@@ -171,15 +171,27 @@
                 </tr>
             </table>
         </xpath>
+
+        <xpath expr="//*[@id='theme_customize_modal']/div/div/div[3]/table[@name='color']/tr/td[1]/label" position="replace">
+            <label class="chd-color-combi">
+                <img src="/theme_soroush_first/static/src/img/theme/soroush-pink.gif" alt="soroush_defaul" class="chd-color-combi-img"/>
+                <input name="colorvar" type="radio" data-xmlid="theme_soroush_first.soroush_default_color"/>
+            </label>
+        </xpath>
+
     </template>
+
+    <template id="soroush_default_color" name="soroush_default_color" inherit_id="website.assets_frontend" active="true" customize_show="true">
+        <xpath expr="." position="inside">
+            <link href="/theme_soroush_first/static/src/less/soroush_default_color.less" rel="stylesheet" type="text/less"/>
+        </xpath>
+    </template>
+
     <template id="Soroush_style" name="Soroush_style" inherit_id="website.assets_frontend" active="false"
               customize_show="false">
         <xpath expr="//link[last()]" position="after">
             <link rel="stylesheet" href='/theme_soroush_first/static/src/less/soroush_style.less'/>
             <link rel="stylesheet" href='/theme_soroush_first/static/src/less/CommonStyle.less'/>
-
-
-
         </xpath>
     </template>
 
