@@ -25,5 +25,7 @@ class Website(models.Model):
                 r_length = []
 
             count = count + 1
-
+        con = count % 3
+        if con != 1:
+            r_items_is.append(r_length)
         return r_items_is
