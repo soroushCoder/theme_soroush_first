@@ -17,8 +17,8 @@
         'views/template.xml'
     ],
     'images': [
-        'static/description/cover.png',
-        'static/description/theme-soroush.jpg',
+         'static/description/cover.jpg',
+		'static/description/icon.png'
     ],
     'installable': True,
     'auto_install': False,
