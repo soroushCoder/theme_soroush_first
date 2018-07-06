@@ -2,11 +2,11 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'Theme Soroush first',
-    'description': 'website theme to showcase customization possibilities.',
+    'name': 'Royal Theme',
+    'description': 'website theme to customization possibilities.',
     'category': 'Theme/Shoping',
     'sequence': 1000,
-    'version': '1.0',
+    'version': '1.1',
     'depends': ['website','product', 'sale','website_sale','theme_default'],
 	'author':'Soroush Ebadi',
     'data': [
