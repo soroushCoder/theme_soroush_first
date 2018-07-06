@@ -79,6 +79,8 @@
                                                             <div class="product-image-wrapper">
                                                                 <div class="single-products">
                                                                     <div class="productinfo text-center">
+                                                                        <form action="/shop/cart/update"
+                                                                              class="oe_website_sale" method="post">
                                                                         <a id="add_to_cart_image"
                                                                            class="add-to-cart a-submit" style="cursor:pointer">
                                                                         <img t-att-src="website.image_url(rcom_item, 'image')"
@@ -95,8 +97,7 @@
                                                                         <p>
                                                                             <t t-esc="rcom_item.name"/>
                                                                         </p>
-                                                                        <form action="/shop/cart/update"
-                                                                              class="oe_website_sale" method="post">
+
                                                                             <input type="hidden" class="product_id"
                                                                                    name="product_id"
                                                                                    t-att-value="rcom_item.product_variant_ids[0].id"/>

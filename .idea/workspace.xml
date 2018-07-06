@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1bb5e0cf-4c4c-4f9e-9aa8-c34038893ae3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/models/ecommerce_product.py" afterPath="$PROJECT_DIR$/models/ecommerce_product.py" />
       <change beforePath="$PROJECT_DIR$/static/src/less/main.less" afterPath="$PROJECT_DIR$/static/src/less/main.less" />
       <change beforePath="$PROJECT_DIR$/views/template.xml" afterPath="$PROJECT_DIR$/views/template.xml" />
     </list>
@@ -25,21 +24,9 @@
       <file leaf-file-name="soroush_default_color.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/src/less/soroush_default_color.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="56" column="33" lean-forward="false" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="33" />
+            <state relative-caret-position="63">
+              <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="18" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="price-range.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/src/js/price-range.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="26" column="55" lean-forward="false" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -47,11 +34,9 @@
       <file leaf-file-name="template.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/template.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-546">
-              <caret line="76" column="90" lean-forward="false" selection-start-line="76" selection-start-column="81" selection-end-line="76" selection-end-column="90" />
-              <folding>
-                <element signature="n#div#0;n#t#2;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#xpath#0;n#template#1;n#data#0;n#openerp#0;n#!!top" expanded="false" />
-              </folding>
+            <state relative-caret-position="1722">
+              <caret line="82" column="116" lean-forward="false" selection-start-line="82" selection-start-column="116" selection-end-line="82" selection-end-column="116" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -61,18 +46,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="owl.carousel.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/src/js/owl.carousel.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36519">
-              <caret line="1750" column="0" lean-forward="false" selection-start-line="1750" selection-start-column="0" selection-end-line="1750" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -90,21 +63,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ecommerce_product.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ecommerce_product.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models/ecommerce_product.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+            <state relative-caret-position="21">
+              <caret line="1" column="31" lean-forward="true" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.less" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.less" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/src/less/main.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-44889">
-              <caret line="345" column="0" lean-forward="true" selection-start-line="345" selection-start-column="0" selection-end-line="345" selection-end-column="0" />
+            <state relative-caret-position="513">
+              <caret line="2547" column="31" lean-forward="false" selection-start-line="2547" selection-start-column="31" selection-end-line="2547" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -136,7 +109,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>variant-amethyst.gif</find>
       <find>theme_default</find>
       <find>theme_soroush_first.</find>
       <find>soroush_default_color</find>
@@ -160,12 +132,13 @@
       <find>r_items_is</find>
       <find>recommended_products_ids</find>
       <find>theme_soroush_first/static/src/css/main.cs</find>
-      <find>footer h4</find>
       <find>#F0F0E9</find>
-      <find>#footer</find>
       <find>productinfo text-center</find>
       <find>r_count</find>
       <find>rcom_item</find>
+      <find>add_to_cart_image</find>
+      <find>footer h4</find>
+      <find>#footer</find>
     </findStrings>
     <replaceStrings>
       <replace>soroush_defaut_color</replace>
@@ -192,9 +165,9 @@
         <option value="$PROJECT_DIR$/static/src/js/owl.carousel.js" />
         <option value="$PROJECT_DIR$/static/src/js/main.js" />
         <option value="$PROJECT_DIR$/static/src/less/soroush_default_color.less" />
-        <option value="$PROJECT_DIR$/static/src/less/main.less" />
-        <option value="$PROJECT_DIR$/views/template.xml" />
         <option value="$PROJECT_DIR$/models/ecommerce_product.py" />
+        <option value="$PROJECT_DIR$/views/template.xml" />
+        <option value="$PROJECT_DIR$/static/src/less/main.less" />
       </list>
     </option>
   </component>
@@ -204,7 +177,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="151" />
     <option name="y" value="470" />
     <option name="width" value="1381" />
@@ -225,8 +198,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -249,6 +222,13 @@
               <item name="theme_soroush_first" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="theme_soroush_first" type="b2602c69:ProjectViewProjectNode" />
+              <item name="theme_soroush_first" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="less" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="theme_soroush_first" type="b2602c69:ProjectViewProjectNode" />
@@ -299,15 +279,16 @@
       <workItem from="1526576148257" duration="1455000" />
       <workItem from="1528178204830" duration="8990000" />
       <workItem from="1528202079626" duration="2714000" />
-      <workItem from="1528960688608" duration="3228000" />
+      <workItem from="1528960688608" duration="6091000" />
+      <workItem from="1530853244493" duration="76000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23373000" />
+    <option name="totallyTimeSpent" value="26312000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1618" height="868" extended-state="6" />
+    <frame x="-9" y="-9" width="1618" height="868" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -315,7 +296,6 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -327,6 +307,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -353,9 +334,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="28" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -363,9 +341,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1176">
           <caret line="77" column="42" lean-forward="false" selection-start-line="77" selection-start-column="42" selection-end-line="77" selection-end-column="42" />
-          <folding>
-            <element signature="n#div#0;n#t#2;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#xpath#0;n#template#1;n#data#0;n#openerp#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -383,9 +359,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36519">
           <caret line="1750" column="0" lean-forward="true" selection-start-line="1750" selection-start-column="0" selection-end-line="1750" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -461,9 +434,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="43" lean-forward="false" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-          <folding>
-            <element signature="n#div#0;n#t#2;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#xpath#0;n#template#1;n#data#0;n#openerp#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -471,9 +442,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -512,9 +480,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -548,9 +513,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="17" column="72" lean-forward="false" selection-start-line="17" selection-start-column="72" selection-end-line="17" selection-end-column="72" />
-          <folding>
-            <element signature="n#div#0;n#t#2;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#xpath#0;n#template#1;n#data#0;n#openerp#0;n#!!top" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -697,9 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36519">
           <caret line="1750" column="0" lean-forward="false" selection-start-line="1750" selection-start-column="0" selection-end-line="1750" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -717,9 +677,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="26" column="55" lean-forward="false" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/template.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1722">
+          <caret line="82" column="116" lean-forward="false" selection-start-line="82" selection-start-column="116" selection-end-line="82" selection-end-column="116" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -731,36 +696,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/models/ecommerce_product.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="31" lean-forward="true" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/static/src/less/soroush_default_color.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="56" column="33" lean-forward="false" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="33" />
+        <state relative-caret-position="63">
+          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/src/less/main.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-44889">
-          <caret line="345" column="0" lean-forward="true" selection-start-line="345" selection-start-column="0" selection-end-line="345" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/template.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-546">
-          <caret line="76" column="90" lean-forward="false" selection-start-line="76" selection-start-column="81" selection-end-line="76" selection-end-column="90" />
-          <folding>
-            <element signature="n#div#0;n#t#2;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#section#0;n#xpath#0;n#template#1;n#data#0;n#openerp#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/models/ecommerce_product.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="28" column="16" lean-forward="false" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        <state relative-caret-position="513">
+          <caret line="2547" column="31" lean-forward="false" selection-start-line="2547" selection-start-column="31" selection-end-line="2547" selection-end-column="31" />
           <folding />
         </state>
       </provider>
