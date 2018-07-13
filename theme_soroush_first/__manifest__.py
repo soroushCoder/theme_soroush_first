@@ -2,11 +2,11 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'Royal Theme',
+    'name': 'Theme Soroush Version 2',
     'description': 'website theme to customization possibilities.',
     'category': 'Theme/Shoping',
     'sequence': 1000,
-    'version': '1.1',
+    'version': '2.0',
     'depends': ['website','product', 'sale','website_sale','theme_default'],
 	'author':'Soroush Ebadi',
     'data': [
